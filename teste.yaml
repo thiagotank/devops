@@ -2,4 +2,5 @@
   host: all
   tasks:
    - name: zuei
-     EEE
+     package:
+      name: git
