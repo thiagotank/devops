@@ -1,0 +1,6 @@
+- name: testando git
+  host: all
+  tasks:
+   - name: zuei
+     package:
+      name: git
